@@ -1,4 +1,4 @@
-## Meu nome é Ronaldo S. Sou Desenvolvedor Full Stack :wave:
+## :wave: Olá, me chamo Ronaldo e sou um Desenvolvedor Full Stack.
 
 <br />
 
